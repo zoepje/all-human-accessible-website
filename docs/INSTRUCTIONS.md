@@ -36,10 +36,10 @@ De development lifecycle kent de volgende stappen:
 De focus van deze sprint ligt op het toegankelijk maken van een (gedeelte van een) website.
 
 Voor deze leertaak gelden de gedragscriteria voor sprint 2: 
-* Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe
-* Kan binnen de squad ontwerpkeuzes, eigen ideeën en producten begrijpelijk verwoorden
-* Gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
-* ~~Benoemt behandelde internationale ontwikkelingen in het vakgebied~~
+* Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe
+* Communiceren: Je kan binnen de squad ontwerpkeuzes, eigen ideeën en producten begrijpelijk verwoorden
+* Probleemoplossend vermogen: Je gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
+* ~~Lerend vermogen: Je benoemt behandelde internationale ontwikkelingen in het vakgebied~~
 
 Deze opdracht is done als:
 - [ ] Je hebt een _keyboard_ navigatie check gedaan en gevonden problemen verholpen
