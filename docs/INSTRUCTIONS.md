@@ -27,15 +27,9 @@ De development lifecycle bestaat uit de stappen: Analyseren, Ontwerpen, Bouwen, 
 7. Documenteer je proces a.h.v de development life cycle
 8. En schrijf een goede readme
 
-## Criteria
+## Definition of done
 
-De focus van deze sprint ligt op het toegankelijk maken van een (gedeelte van een) website.
-
-Voor deze leertaak gelden de gedragscriteria voor sprint 2: 
-* Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe
-* Communiceren: Je kan binnen de squad ontwerpkeuzes, eigen ideeën en producten begrijpelijk verwoorden
-* Probleemoplossend vermogen: Je gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
-* ~~Lerend vermogen: Je benoemt behandelde internationale ontwikkelingen in het vakgebied~~
+Focus sprint 3 - De focus van deze sprint ligt op het toegankelijk maken van een (gedeelte van een) website.
 
 Deze opdracht is done als:
 
