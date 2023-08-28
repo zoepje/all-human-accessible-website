@@ -4,7 +4,12 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
  
 ## Context
 
-Deze leertaak hoort bij sprint 3: All Human. Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
+Deze leertaak hoort bij sprint 3: All Human. 
+Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
+
+Bij deze leertaak hoort de deeltaak:
+- [All human - We love web]([https://github.com/fdnd-task/the-client-layout-in-css](https://github.com/fdnd-task/we-love-web))
+- [All human - WGAG audit]([https://github.com/fdnd-task/the-client-briefing-debriefing/](https://github.com/fdnd-task/all-human-wcag-audit))
 
 ## Doel van deze opdracht
 
@@ -14,7 +19,6 @@ Je leert hoe je een (gedeelte van een) website toegankelijk kan ontwerpen, bouwe
 
 Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
 De development lifecycle bestaat uit de stappen: Analyseren, Ontwerpen, Bouwen, Integreren en Testen.
-
 
 ### Aanpak
 
