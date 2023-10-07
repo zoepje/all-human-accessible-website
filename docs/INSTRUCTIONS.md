@@ -8,7 +8,7 @@ Deze leertaak hoort bij sprint 3: All Human.
 Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
 
 Bij deze leertaak hoort de deeltaak:
-- [All human - We love web](https://github.com/fdnd-task/we-love-web)
+
 - [All human - WGAG audit](https://github.com/fdnd-task/all-human-wcag-audit)
 
 ## Doel van deze opdracht
