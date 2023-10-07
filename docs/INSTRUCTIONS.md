@@ -33,8 +33,6 @@ De development lifecycle bestaat uit de stappen: Analyseren, Ontwerpen, Bouwen, 
 
 ## Definition of done
 
-Focus sprint 3 - De focus van deze sprint ligt op het toegankelijk maken van een (gedeelte van een) website.
-
 Deze opdracht is done als:
 
 - [ ] Je hebt een Lighthouse test gedaan en gevonden problemen verholpen
