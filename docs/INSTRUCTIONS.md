@@ -5,7 +5,7 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
 ## Context
 
 Deze leertaak hoort bij sprint 3: All Human. 
-Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
+Dit is een opdracht die je individueel of in een team uitvoert voor een opdrachtgever.
 
 Bij deze leertaak hoort de deeltaak:
 
