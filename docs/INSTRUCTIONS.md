@@ -29,7 +29,7 @@ De vorige sprint heb je individueel of in een team een opdracht voor een opdrach
 Eerst ga je met dde studenent due dezelfde opdrachtgever hebben de [sprint-review bespreken](#1-sprint-review-bespreken), daarna ga je aan de slag met de [leertaak](#2-aanpak-leertaak). 
 
 
-### 1. Sprint-review bespreken
+#### 1. Sprint-review bespreken
 
 1. Bespreek met de studenten die dezelfde opdrachtgever hebben de sprint-review van de vorige sprint.
 2. Bespreek de feedback van de opdrachtgever.
@@ -40,7 +40,7 @@ Eerst ga je met dde studenent due dezelfde opdrachtgever hebben de [sprint-revie
 7. Hebben jullie met de opdrachtgever nieuwe dingen bedacht? Schrijf dan nieuwe _user stories_ en voeg ze toe aan de _Backlog_.
 
 
-#### Aanpak Leertaak
+#### 2. Aanpak Leertaak
 
 1. Lees de instructies van deze leertaak zorgvuldig door.
 2. Maak issues van de feedback die je hebt gekregen.
