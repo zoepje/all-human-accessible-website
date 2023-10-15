@@ -42,10 +42,11 @@ Eerst ga je met dde studenent due dezelfde opdrachtgever hebben de [sprint-revie
 
 #### 2. Aanpak Leertaak
 
-1. Lees de instructies van deze leertaak zorgvuldig door.
-2. Maak issues van de feedback die je hebt gekregen.
-3. Doe een Lighthouse test op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues.
-4. Voer een aantal handmatige tests uit op de code uit de vorige sprint, documenteer de gevonden problemen en maak issues.
+1. Fork en Clone deze leertaak.
+2. Lees de instructies van deze leertaak zorgvuldig door.
+3. Maak issues van de feedback die je hebt besproken.
+4. Doe een Lighthouse test op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues.
+5. Voer een aantal handmatige tests uit op de code uit de vorige sprint, documenteer de gevonden problemen en maak issues.
 
 
 ## Ontwerpen
@@ -61,9 +62,7 @@ In de ontwerpfase neem je ontwerp- beslissingen en zorg je dat je precies weet w
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-1. Fork en Clone deze leertaak.
-2. Schrijf de user story waar jij aan gaat werken in de Readme van deze leertaak, dit is waar je aan gaat werken deze sprint.
-3. Schrijf elke sprint nieuwe code, ookal blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven. 
+1. Schrijf elke sprint nieuwe code, ookal blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven. 
    
 
 ## Definition of done
