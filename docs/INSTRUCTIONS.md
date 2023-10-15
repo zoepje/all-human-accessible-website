@@ -62,7 +62,9 @@ In de ontwerpfase neem je ontwerp- beslissingen en zorg je dat je precies weet w
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-1. Schrijf elke sprint nieuwe code, ookal blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven. 
+1. Schrijf elke sprint nieuwe code, ookal blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven.
+2. Verbeter de code op basis van de testresultaten.
+3. Verbeter de websit emet dde feedback die je hebt gekregen.
    
 
 ## Definition of done
