@@ -17,25 +17,60 @@ Je leert hoe je een (gedeelte van een) website toegankelijk kan ontwerpen, bouwe
 
 ## Werkwijze
 
-Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
-De development lifecycle bestaat uit de stappen: Analyseren, Ontwerpen, Bouwen, Integreren en Testen.
+Deze opdracht gaat over alle fases van de **development-lifecycle** [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), integreren en testen.
 
-### Aanpak
 
-1. Fork en Clone deze leertaak
-2. Kopieer de code van de user story waar je aan hebt gewerkt naar deze leertaak
-3. Schrijf de user story waar jij aan gaat werken in de Readme van deze leertaak, dit is wat je gaat ontwerpen, maken en testen
-4. Verwerk de feedback die je bij de Sprint Review van de vorige sprint hebt gekregen
-5. Voer verschillende toegankelijkheid tests uit op de bestaande code en verbeter de problemen
-6. Ga verder met uitwerken van de user story en gebruik daarbij de A11Y checklist
-7. Documenteer je proces a.h.v de development life cycle
-8. En schrijf een goede readme
+### Analyseren
+
+In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
+
+De vorige sprint heb je individueel of in een team een opdracht voor een opdrachtgever ontworpen en gemaakt. Na 3 weken heb je tijdens de sprint-review je opdracht laten zien en feedback gekregen. Deze sprint ga je verder met de opdracht, ga je de feedback verwerken of, als de opdracht goed was, kies je een nieuwe user story om aan te werken. 
+
+Eerst ga je met dde studenent due dezelfde opdrachtgever hebben de [sprint-review bespreken](#1-sprint-review-bespreken), daarna ga je aan de slag met de [leertaak](#2-aanpak-leertaak). 
+
+
+### 1. Sprint-review bespreken
+
+1. Bespreek met de studenten die dezelfde opdrachtgever hebben de sprint-review van de vorige sprint.
+2. Bespreek de feedback van de opdrachtgever.
+3. Bekijk en bespreek het door jullie gemaakte werk. Maak individueel aantekeningen.
+4. Bekijk de _Backlog_ op https://github.com/fdnd-agency/.
+5. Is de _user story_ waar je aan hebt gewerkt af? Dan verplaats je deze taak naar 'done'.
+6. Is de _user story_ nog niet af? Laat deze dan 'In Progress' staan.
+7. Hebben jullie met de opdrachtgever nieuwe dingen bedacht? Schrijf dan nieuwe _user stories_ en voeg ze toe aan de _Backlog_.
+
+
+#### Aanpak Leertaak
+
+1. Lees de instructies van deze leertaak zorgvuldig door.
+2. Maak issues van de feedback die je hebt gekregen.
+3. Doe een Lighthouse test op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues.
+4. Voer een aantal handmatige tests uit op de code uit de vorige sprint, documenteer de gevonden problemen en maak issues.
+
+
+## Ontwerpen
+
+In de ontwerpfase neem je ontwerp- beslissingen en zorg je dat je precies weet wat je moet gaan bouwen.
+
+1. Verwerk de feedback en testresultaten in een nieuw ontwerp.
+2. Maak schetsen zodat je niet vergeet wat je wil veranderen, of pas je vorige ontwerp aan in Figma of XD.
+3. Maak eerst een kopie van je ontwerp en bewaar de vorige versie. Schrijf annotaties voor de wijzigingen in je ontwerp. 
+
+
+### Bouwen
+
+In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
+
+1. Fork en Clone deze leertaak.
+2. Schrijf de user story waar jij aan gaat werken in de Readme van deze leertaak, dit is waar je aan gaat werken deze sprint.
+3. Schrijf elke sprint nieuwe code, ookal blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven. 
+   
 
 ## Definition of done
 
 Deze opdracht is done als:
 
 - [ ] Je hebt een Lighthouse test gedaan en gevonden problemen verholpen
-- [ ] Je hebt een een serie handmatige tests gedaan en gevonden problemen verholpen
+- [ ] Je hebt een serie handmatige tests gedaan en gevonden problemen verholpen
 - [ ] Je hebt je werk gedocumenteerd in de Readme en Wiki 
 - [ ] de website staat op Github en heeft een live url
