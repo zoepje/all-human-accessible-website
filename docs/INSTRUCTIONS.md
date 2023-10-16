@@ -55,7 +55,7 @@ In de ontwerpfase neem je ontwerp- beslissingen en zorg je dat je precies weet w
 
 1. Verwerk de feedback en testresultaten in een nieuw ontwerp.
 2. Maak schetsen zodat je niet vergeet wat je wil veranderen, of pas je vorige ontwerp aan in Figma of XD.
-3. Maak eerst een kopie van je ontwerp en bewaar de vorige versie. Schrijf annotaties voor de wijzigingen in je ontwerp. 
+3. Maak eerst een kopie van je ontwerp en bewaar de vorige versie. Schrijf annotaties (korte uitleg) bij de wijzigingen in je ontwerp. 
 
 
 ### Bouwen
