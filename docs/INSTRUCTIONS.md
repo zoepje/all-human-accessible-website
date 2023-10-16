@@ -26,7 +26,7 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 
 De vorige sprint heb je individueel of in een team een opdracht voor een opdrachtgever ontworpen en gemaakt. Na 3 weken heb je tijdens de sprint-review je opdracht laten zien en feedback gekregen. Deze sprint ga je verder met de opdracht, ga je de feedback verwerken of, als de opdracht goed was, kies je een nieuwe user story om aan te werken. 
 
-Eerst ga je met dde studenent due dezelfde opdrachtgever hebben de [sprint-review bespreken](#1-sprint-review-bespreken), daarna ga je aan de slag met de [leertaak](#2-aanpak-leertaak). 
+Eerst ga je met de studenten die dezelfde opdrachtgever hebben de [sprint-review bespreken](#1-sprint-review-bespreken), daarna ga je aan de slag met de [leertaak](#2-aanpak-leertaak). 
 
 
 #### 1. Sprint-review bespreken
