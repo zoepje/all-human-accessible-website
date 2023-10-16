@@ -31,6 +31,7 @@ Eerst ga je met de studenten die dezelfde opdrachtgever hebben de [sprint-review
 
 #### 1. Sprint-review bespreken
 
+0. Lees eerst de instructies van deze leertaak zorgvuldig door.
 1. Bespreek met de studenten die dezelfde opdrachtgever hebben de sprint-review van de vorige sprint.
 2. Bespreek de feedback van de opdrachtgever.
 3. Bekijk en bespreek het door jullie gemaakte werk. Maak individueel aantekeningen.
@@ -43,10 +44,9 @@ Eerst ga je met de studenten die dezelfde opdrachtgever hebben de [sprint-review
 #### 2. Aanpak Leertaak
 
 1. Fork en Clone deze leertaak.
-2. Lees de instructies van deze leertaak zorgvuldig door.
-3. Maak issues van de feedback die je hebt besproken.
-4. Doe een Lighthouse test op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues aan.
-5. Voer een aantal handmatige tests uit op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues aan.
+2. Maak issues van de feedback die je hebt besproken.
+3. Doe een Lighthouse test op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues aan.
+4. Voer een aantal handmatige tests uit op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues aan.
 
 
 ## Ontwerpen
