@@ -45,8 +45,8 @@ Eerst ga je met de studenten die dezelfde opdrachtgever hebben de [sprint-review
 1. Fork en Clone deze leertaak.
 2. Lees de instructies van deze leertaak zorgvuldig door.
 3. Maak issues van de feedback die je hebt besproken.
-4. Doe een Lighthouse test op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues.
-5. Voer een aantal handmatige tests uit op de code uit de vorige sprint, documenteer de gevonden problemen en maak issues.
+4. Doe een Lighthouse test op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues aan.
+5. Voer een aantal handmatige tests uit op de website uit de vorige sprint, documenteer de gevonden problemen en maak issues aan.
 
 
 ## Ontwerpen
