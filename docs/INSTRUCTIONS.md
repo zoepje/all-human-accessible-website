@@ -51,7 +51,7 @@ Eerst ga je met de studenten die dezelfde opdrachtgever hebben de [sprint-review
 
 ## Ontwerpen
 
-In de ontwerpfase neem je ontwerp- beslissingen en zorg je dat je precies weet wat je moet gaan bouwen.
+In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.
 
 1. Verwerk de feedback en testresultaten in een nieuw ontwerp.
 2. Maak schetsen zodat je niet vergeet wat je wil veranderen, of pas je vorige ontwerp aan in Figma of XD.
@@ -62,9 +62,9 @@ In de ontwerpfase neem je ontwerp- beslissingen en zorg je dat je precies weet w
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-1. Schrijf elke sprint nieuwe code, ookal blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven.
+1. Schrijf elke sprint nieuwe code, ook al blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven.
 2. Verbeter de website op basis van de testresultaten.
-3. Verbeter de website op basis van de feedback die je hebt gekregen en/of nieuwe ideeen die je hebt bedacht.
+3. Verbeter de website op basis van de feedback die je hebt gekregen en/of nieuwe ideeën die je hebt bedacht.
    
 
 ## Definition of done
@@ -74,4 +74,4 @@ Deze opdracht is done als:
 - [ ] Je hebt een Lighthouse test gedaan en gevonden problemen verholpen
 - [ ] Je hebt een serie handmatige tests gedaan en gevonden problemen verholpen
 - [ ] Je hebt je werk gedocumenteerd in de Readme en Wiki 
-- [ ] de website staat op Github en heeft een live url
+- [ ] De website staat op GitHub en heeft een live url
