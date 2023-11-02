@@ -14,33 +14,57 @@
     
     <title>Contact</title>
 </head>
+
 <body>
     <header>
         <h1>Contactformulier</h1>
     </header>
+
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="catogoriepagina.html">Kids</a>
+            </li>
+            <li>
+                <a href="catogoriepagina.html">Muziek</a>
+            </li>
+            <li>
+                <a href="catogoriepagina.html">Film</a>
+            </li>
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>
+        </ul>
+    </nav>
     
-    <form action="verwerk_formulier.php" method="post">
-        <label for="organisatie-naam">Naam van organisatie *</label>
-        <input type="text" class="naam" name="naam" required>
-
-        <label for="organisatie-contactpersoon">Contactpersoon *</label>
-        <input type="text" class="contactpersoon" name="contactpersoon" required>
+    <main>
+        <form action="verwerk_formulier.php" method="post">
+            <label for="organisatie-naam">Naam van organisatie *</label>
+            <input type="text" class="naam" name="naam" required>
     
-        <label for="adres">Straat + huisnummer *</label>
-        <input type="text" class="adres" name="adres" required>
-
-        <label for="postcode">postcode *</label>
-        <input type="text" class="postcode" name="postcode">
-
-        <label for="email">Email adres *</label>
-        <input type="text" class="email" name="email" required>
-
-        <label for="telefoon">Telefoonnummer</label>
-        <input type="text" class="telefoon" name="telefoon">
+            <label for="organisatie-contactpersoon">Contactpersoon *</label>
+            <input type="text" class="contactpersoon" name="contactpersoon" required>
         
-        <label for="beschrijving">Korte beschrijving over de organisatie *</label>
-        <textarea class="beschrijving" name="beschrijving" rows="3" required></textarea>
-    </form>
-
+            <label for="adres">Straat + huisnummer *</label>
+            <input type="text" class="adres" name="adres" required>
     
+            <label for="postcode">postcode *</label>
+            <input type="text" class="postcode" name="postcode">
+    
+            <label for="email">Email adres *</label>
+            <input type="text" class="email" name="email" required>
+    
+            <label for="telefoon">Telefoonnummer</label>
+            <input type="text" class="telefoon" name="telefoon">
+            
+            <label for="beschrijving">Korte beschrijving over de organisatie *</label>
+            <textarea class="beschrijving" name="beschrijving" rows="3" required></textarea>
+        </form>
+        <p>
+            * zijn verplichte onderdelen.
+        </p>
+    </main>
 </body>
