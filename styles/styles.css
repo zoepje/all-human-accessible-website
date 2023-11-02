@@ -1,0 +1,127 @@
+*{
+    scroll-behavior: smooth; /*Zorgt ervoor dat als je op een linkje klikt met id dat je niet gelijk er naar toe sprinkt maar dat het smooth gaat*/
+    overflow-x: hidden; /*Zorgt ervoor dat je niet horizontaal kan scrollen*/
+    box-sizing: border-box; /*Zorgt ervoor dat de bij het aangeven van de groote de border wordt mee geteld*/
+}
+
+/* BODY */
+body {
+    margin: 0;
+    background: #fffaea;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEADER */
+header {
+    background: #36A1E9;
+    text-align: center;
+}
+
+/* NAV */
+nav {
+    background: #46aa64;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+}
+
+nav ul li{
+    padding: 1em;
+    width: 20vw;
+}
+
+/* SEARCH */
+.search{
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.search button{
+    background: #43525D;
+    color: #ffffff;
+    font-size: 17px;
+    border: 0px solid;
+    cursor: pointer;
+}
+
+/* MAIN */
+/* Initiatieven */
+a {
+    text-decoration: none;
+    color: black;
+}
+
+section{
+    margin: 3em 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+section h2{
+    text-align: center;
+    font-style: italic;
+}
+
+.scroll{
+    overflow: auto; /*Zorgt ervoor dat de lijst scrolled*/
+    white-space: nowrap; /*Zorgt ervoor dat de lijst op een lijn blijft staan*/
+    list-style: none;
+}
+
+.scroll li{
+    display: inline-block; /*zorgt ervoor dat list items in de section blijven*/
+}
+
+.card{
+    margin: 0 2em;
+    padding: 0 1.5em;
+    display: flex;
+    flex-direction: column; /*zort ervoor dat de image en tekst onderelkaar komen te staan in de article*/
+    overflow-x: unset;
+    background: #36A1E9;
+    position: relative;
+    width: 50vw;
+    height: 35vh;
+    min-height: 250px;
+}  
+
+.card img{
+    width: 100vw;
+    height: 50vh;
+    align-self: center;
+    min-height: 70px;
+    max-width: 190px;
+}
+
+.card h3{
+    overflow-x: unset;
+}
+
+.card p {
+    margin-top: -10px;
+    overflow-x: unset;
+}
+
+/* FOOTER */
+footer {
+    padding: 1em;
+    background: #0a334f;
+    color: #fff1c4;
+}
+
+/* MEDIAQUERYS */
+@media only screen and (min-width: 600px){
+    .card {
+        max-width: 200px;
+    }
+
+    .card img{
+        max-width: 200px;
+    }
+}
