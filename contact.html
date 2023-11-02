@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--Link naar css bestand-->
+    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="stylesheet" href="./styles/constyle.css">
+
+    <!-- Load icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    
+    <title>Contact</title>
+</head>
+<body>
+    <header>
+        <h1>Contactformulier</h1>
+    </header>
+    
+    <form action="verwerk_formulier.php" method="post">
+        <label for="organisatie-naam">Naam van organisatie *</label>
+        <input type="text" class="naam" name="naam" required>
+
+        <label for="organisatie-contactpersoon">Contactpersoon *</label>
+        <input type="text" class="contactpersoon" name="contactpersoon" required>
+    
+        <label for="adres">Straat + huisnummer *</label>
+        <input type="text" class="adres" name="adres" required>
+
+        <label for="postcode">postcode *</label>
+        <input type="text" class="postcode" name="postcode">
+
+        <label for="email">Email adres *</label>
+        <input type="text" class="email" name="email" required>
+
+        <label for="telefoon">Telefoonnummer</label>
+        <input type="text" class="telefoon" name="telefoon">
+        
+        <label for="beschrijving">Korte beschrijving over de organisatie *</label>
+        <textarea class="beschrijving" name="beschrijving" rows="3" required></textarea>
+
+    </form>
+</body>
